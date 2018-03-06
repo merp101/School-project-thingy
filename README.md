@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-Link: https://merp101.github.io/School-project-thingy/
+<a href="https://merp101.github.io/School-project-thingy/" target="_blank">Link</a>
 
 You can use the [editor on GitHub](https://github.com/merp101/School-project-thingy/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
